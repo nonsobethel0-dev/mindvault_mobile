@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/mind-vault-1/mindvault_mobile/compare/v1.2.0...v1.3.0) (2026-11-20)
+
+
+### Features
+
+* offline mutation queue, receipt sync, secret redaction and biometric re-auth ([#273](https://github.com/mind-vault-1/mindvault_mobile/issues/273)-[#276](https://github.com/mind-vault-1/mindvault_mobile/issues/276)) ([#277](https://github.com/mind-vault-1/mindvault_mobile/issues/277)) ([68ffd34](https://github.com/mind-vault-1/mindvault_mobile/commit/68ffd34ba300032ae225033b3a833042cbac1b72))
+
 ## [1.2.0](https://github.com/mind-vault-1/mindvault_mobile/compare/v1.1.0...v1.2.0) (2026-10-23)
 
 
